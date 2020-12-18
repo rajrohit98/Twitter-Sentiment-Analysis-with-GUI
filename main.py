@@ -20,10 +20,10 @@ import tweepy
 import csv
   
 #Twitter API_DETAILS
-consumer_key = "pIRHWJgerjWN3mptcEePMQR5l" 
-consumer_secret = "0e78OTe8SII9Qxxt78brz1LpXci7jYCgg0fGqtqjQ2gR21Yrko"
-access_key = "1267885628789682177-rULOsp0fxYegvEOBSAAMDyKYvX81VD"
-access_secret = "2dKp7fP7zq92DDyluWxRepav47sV2ifoDF9III3b2YYeZ"
+consumer_key = "XXXXXXXXXXXXXXXXXXX" 
+consumer_secret = "XXXXXXXXXXXXXXXX"
+access_key = "XXXXXXXXXXXXXXXXXXXXX"
+access_secret = "XXXXXXXXXXXXXXXXX"
 
 #Extract the Tweets
 def get_tweets():
